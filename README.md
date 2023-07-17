@@ -1,6 +1,3 @@
-# Developed as a part of the graduate course CSC522 - Automated Learning and Data Analysis at North Carolina State University
-
-
 ## Introduction
 Emails have become an integral part of our daily lives and a popular means of communication in the digital world. However, with the rise of email-based cybercrimes such as phishing, spamming, and identity theft, users must remain vigilant when using email services. Our project aims to develop a machine learning-based solution that can accurately identify the author of an email. By leveraging advanced algorithms and statistical techniques, we can train our model to detect patterns in the email’s content, structure, and metadata, enabling us to identify the sender of an email with high accuracy. This solution can significantly mitigate the risks associated with email-based cyber crimes by allowing users to verify the authenticity of the sender, prevent unauthorized access to user accounts, and minimize the spread of malware through suspicious emails.
 
@@ -32,3 +29,5 @@ Link - http://www.cs.cmu.edu/~enron/
 2. Neel Shah
 3. Shaival Shah
 4. Vishwa Gandhi
+
+### Developed as a part of the graduate course CSC522 - Automated Learning and Data Analysis at North Carolina State University
