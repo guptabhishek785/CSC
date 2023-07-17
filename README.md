@@ -1,6 +1,8 @@
 ## Introduction
 Emails have become an integral part of our daily lives and a popular means of communication in the digital world. However, with the rise of email-based cybercrimes such as phishing, spamming, and identity theft, users must remain vigilant when using email services. Our project aims to develop a machine learning-based solution that can accurately identify the author of an email. By leveraging advanced algorithms and statistical techniques, we can train our model to detect patterns in the email’s content, structure, and metadata, enabling us to identify the sender of an email with high accuracy. This solution can significantly mitigate the risks associated with email-based cyber crimes by allowing users to verify the authenticity of the sender, prevent unauthorized access to user accounts, and minimize the spread of malware through suspicious emails.
 
+We try a combination of different methods like linear regression, multinomial naive bayes, random forests, and support vector classifier with TF-IDF and Count Vectorization. A deliberate effort was made to NOT use transfomer based models like BERT to ensure that we stay consistent with the syllabus of the course and work with the concepts that were taught upto that point.
+
 
 ## Dataset 
 For this project we are using the ENRON Email dataset. The size of the dataset is 1.7GB and here is the link to download the entire dataset.
