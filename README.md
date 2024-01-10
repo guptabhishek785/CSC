@@ -27,7 +27,7 @@ Link - http://www.cs.cmu.edu/~enron/
 7. Now simply run the S4A and S4B files and you should be able to generate all the models and their outputs.
 
 ## Team Members
-1. Abhisekh Gupta 
+1. Abhisek Gupta 
 2. Neel Shah
 3. Shaival Shah
 4. Vishwa Gandhi
